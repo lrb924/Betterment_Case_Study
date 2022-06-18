@@ -15,5 +15,10 @@ At the end of 2021, Betterment raised an additional $160 million in funding, bri
 
 ### Business Activities
 
+Betterment was founded because there was nothing in the marketplace that would automate the investment process and use AI technology to help the investor ultimately decide what was best for them. Their audience is investors that want to avoid the sometimes arduous task of finding exchange-traded funds that meet their investment goals. Instead, after taking a quick quiz, Betterment's robo-advising platform automatically matches your investment profile and goals with an appropriate portfolio. Additionally, the platform will automatically rebalance the portfolio in order to stay on track with the established goals. [[1]](https://www.betterment.com/how-it-works) Betterment currently offers two different service options: Betterment Digital and Betterment Premium. Betterment Digital is the robo-advising side of the company, and Betterment Premium offers "unlimited phone access to ceritied financial planners... and a $100,000 account minimum." Betterment Digital's account minimum is only $10.00. [[1]](https://www.nerdwallet.com/reviews/investing/advisors/betterment) "Betterments products also include Tax Loss Harvesting, a program that works to offset taxes on both gains and income; and RetireGuide, a series of online surveys to enable users to determine the success of their long-term financial goals." [[1]](https://www.crunchbase.com/organization/betterment)
 
+"Betterment’s asset allocation is based on a theory by economist Harry Markowitz called Modern Portfolio Theory." [[1]](https://www.betterment.com/resources/betterment-portfolio-strategy)
 
+### Landscape
+
+Betterment is one of the two most popular robo-advising platforms on the market. Their main competitor is Wealthfront, which essentially does the same thing. After the financial crisis in 2008, which essentially led to Betterment's founding, the robo-advising domain has expanded.
