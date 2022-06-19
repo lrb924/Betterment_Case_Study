@@ -21,4 +21,4 @@ Betterment was founded because there was nothing in the marketplace that would a
 
 ### Landscape
 
-Betterment is one of the two most popular robo-advising platforms on the market. Their main competitor is Wealthfront, which essentially does the same thing. After the financial crisis in 2008, which essentially led to Betterment's founding, the robo-advising domain has expanded.
+Betterment is one of the two most popular robo-advising platforms on the market. Their main competitor is Wealthfront, which essentially does the same thing. After the financial crisis in 2008, which eventually led to Betterment's founding, the robo-advising domain has expanded. The main benefits of robo-advising platforms are the following: automation, lows fees and cost-effectiveness, customized portfolio management, flexibility and adaptability, remote operation, easy customer on-boarding, minimal capital to initialize, and 24/7 operation. [[1]](https://dashdevs.com/blog/fintech-robo-advisors-invasion-menace-or-opportunities-copy/)
