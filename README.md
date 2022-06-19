@@ -34,7 +34,7 @@ As of September 2021, Betterment has $33 billion in assets under management and 
 
 ### Recommendations
 
-If I were to advise Betterment, I would suggest they keep increasing the capabilities of their technology. In order to keep customer growth on a strong trajectory, it needs to constantly work on improving the technology in order to make the best investment decisions for investors. 
+If I were to advise Betterment, I would suggest they keep increasing the capabilities of their technology. In order to keep customer growth on a strong trajectory, it needs to constantly work on improving the technology in order to make the best investment decisions for investors. Something that another competitor, Ellevest, does is focus their platform on female investors. Particularly, one of their model adjustments is related to a female's longer life expectancy compared to males. [[19]](https://www.investopedia.com/ellevest-vs-betterment-4706029) Additionally, according to Fidenlity's 2021 Women and Investing Study, "women outperform men by 40 basis points, or 0.4%, on average." [[20]](https://www.cnbc.com/2022/04/11/op-ed-heres-why-women-are-better-investors-than-men.html) Focusing on women investors and adjusting algorithms based on research such as this, could even increase Betterment's revenue in addition to the investors. 
 
 ### Addendum/References
 
@@ -74,4 +74,6 @@ If I were to advise Betterment, I would suggest they keep increasing the capabil
 
 [18] "Wealthfront's $1.4B sale could prompt Betterment, Acorns to consider selling." https://www.spglobal.com/marketintelligence/en/news-insights/research/wealthfronts-14b-sale-could-prompt-betterment-acorns-to-consider-selling. Accessed 18 June 2022.
 
+[19] "Ellevest vs. Betterment: Which Is Best for You?" https://www.investopedia.com/ellevest-vs-betterment-4706029. Accessed 18 June 2022.
 
+[20] "Op-ed: If female investors have any weakness, it’s their mistaken belief that they’re not good investors." https://www.cnbc.com/2022/04/11/op-ed-heres-why-women-are-better-investors-than-men.html. Accessed 18 June 2022.
