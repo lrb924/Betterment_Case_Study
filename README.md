@@ -1,4 +1,4 @@
-# Northwestern University FinTech Bootcamp Module 1 Challenge
+# Betterment Case Study
 
 ## Betterment
 
